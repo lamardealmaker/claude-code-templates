@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-15T10:40:17.426544+00:00",
-  "totalJobs": 592,
+  "lastUpdated": "2026-11-16T10:57:40.577081+00:00",
+  "totalJobs": 589,
   "sources": [
     "Anthropic",
     "Ashby",
@@ -10,6 +10,333 @@
     "RemoteOK"
   ],
   "jobs": [
+    {
+      "id": "gr-rubrik-8273717",
+      "company": "Rubrik Job Board",
+      "position": "Senior Applied AI Engineer",
+      "location": "Bangalore",
+      "locations": [
+        "Bangalore"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "About the Role We are looking for a Senior Applied AI Engineer to join Rubrik's Applied AI team, building production-grade, full-stack applications and APIs for our internal Business teams while embedding AI-agentified capabilities into these internal platforms. This is a hands-on build role: you...",
+      "applyUrl": "https://www.rubrik.com/company/careers/departments/job.8273717?gh_jid=8273717",
+      "source": "Greenhouse",
+      "sourceUrl": "https://www.rubrik.com/company/careers/departments/job.8273717?gh_jid=8273717",
+      "postedAt": "2026-11-16T03:45:35-05:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Python",
+        "PostgreSQL",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Docker"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-rubrik-8273834",
+      "company": "Rubrik Job Board",
+      "position": "Senior AI Evals Engineer",
+      "location": "Bangalore",
+      "locations": [
+        "Bangalore"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "About the Role The Senior AI Evals Test Engineer is a hands-on technical role responsible for defining, developing, and executing robust evaluation frameworks and test strategies for AI agents built using the Google Agent Development Kit (ADK) or similar sort of agentic frameworks . This role...",
+      "applyUrl": "https://www.rubrik.com/company/careers/departments/job.8273834?gh_jid=8273834",
+      "source": "Greenhouse",
+      "sourceUrl": "https://www.rubrik.com/company/careers/departments/job.8273834?gh_jid=8273834",
+      "postedAt": "2026-11-16T03:45:18-05:00",
+      "tags": [
+        "React",
+        "TypeScript",
+        "Python",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Kubernetes",
+        "Java"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-rubrik-8273808",
+      "company": "Rubrik Job Board",
+      "position": "Senior AI API Platform Engineer",
+      "location": "Bangalore, India",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "About the Role The AI API Platform Engineer is a hands-on technical lead who designs and builds the APIs and platform capabilities powering Rubrik's AI-driven products and automation, owning the full API lifecycle across any stack, cloud, or iPaaS. This role delivers secure, scalable,...",
+      "applyUrl": "https://www.rubrik.com/company/careers/departments/job.8273808?gh_jid=8273808",
+      "source": "Greenhouse",
+      "sourceUrl": "https://www.rubrik.com/company/careers/departments/job.8273808?gh_jid=8273808",
+      "postedAt": "2026-11-16T03:45:04-05:00",
+      "tags": [
+        "Claude Code",
+        "Python",
+        "Go",
+        "Node.js",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Kubernetes",
+        "Cursor",
+        "Copilot"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-gusto-8348189",
+      "company": "Gusto",
+      "position": "Security Operations Analyst",
+      "location": "Denver, CO - Hybrid · New York, NY - Hybrid · San Francisco, CA - Hybrid",
+      "locations": [
+        "Denver, CO - Hybrid",
+        "New York, NY - Hybrid",
+        "San Francisco, CA - Hybrid"
+      ],
+      "remote": false,
+      "salary": "$147,000-164,000",
+      "description": "About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small...",
+      "applyUrl": "https://job-boards.greenhouse.io/gusto/jobs/8348189",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/8348189",
+      "postedAt": "2026-11-16T03:02:14-05:00",
+      "tags": [
+        "Claude Code",
+        "Python",
+        "AWS",
+        "GCP",
+        "MCP"
+      ],
+      "companyIcon": "https://gusto.com/favicon.ico"
+    },
+    {
+      "id": "gr-binance-5004445101",
+      "company": "Binance",
+      "position": "Data Analyst (12 months contract)",
+      "location": "Hong Kong · Malaysia · Singapore",
+      "locations": [
+        "Hong Kong",
+        "Malaysia",
+        "Singapore"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5004445101",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5004445101",
+      "postedAt": "2026-11-16T02:10:44-05:00",
+      "tags": [
+        "Claude Code",
+        "Python"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-binance-5005781101",
+      "company": "Binance",
+      "position": "Fullstack Engineer",
+      "location": "Hong Kong",
+      "locations": [
+        "Hong Kong"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5005781101",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5005781101",
+      "postedAt": "2026-11-16T02:10:44-05:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "Go",
+        "Node.js",
+        "Cursor",
+        "Copilot",
+        "Java"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-binance-5025783101",
+      "company": "Binance",
+      "position": "Full Stack Engineer - Recommendation Engine (APAC Remote)",
+      "location": "Hong Kong · Japan · Singapore · Taiwan",
+      "locations": [
+        "Hong Kong",
+        "Japan",
+        "Singapore",
+        "Taiwan"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5025783101",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5025783101",
+      "postedAt": "2026-11-16T02:10:44-05:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "Go",
+        "Cursor",
+        "Copilot",
+        "Java"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-binance-5028202101",
+      "company": "Binance",
+      "position": "Fullstack Engineer - Square (APAC Remote)",
+      "location": "Hong Kong · Singapore · Taiwan",
+      "locations": [
+        "Hong Kong",
+        "Singapore",
+        "Taiwan"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5028202101",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5028202101",
+      "postedAt": "2026-11-16T02:10:44-05:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "Go",
+        "Cursor",
+        "Copilot",
+        "Java",
+        "Vue.js",
+        "Redis",
+        "MySQL"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-binance-5007086101",
+      "company": "Binance",
+      "position": "Full Stack Engineer (Web,Frontend Oriented) — AI Facial Recognition, Identity & Security",
+      "location": "Australia · Hong Kong · New Zealand · Singapore · Taiwan · United Arab Emirates",
+      "locations": [
+        "Australia",
+        "Hong Kong",
+        "New Zealand",
+        "Singapore",
+        "Taiwan",
+        "United Arab Emirates"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5007086101",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5007086101",
+      "postedAt": "2026-11-16T02:10:44-05:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Cursor",
+        "Copilot"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-binance-5002673101",
+      "company": "Binance",
+      "position": "Java Backend Engineer, Global Travel Rule (GTR)",
+      "location": "Hong Kong · Singapore",
+      "locations": [
+        "Hong Kong",
+        "Singapore"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5002673101",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5002673101",
+      "postedAt": "2026-11-16T02:10:44-05:00",
+      "tags": [
+        "Claude Code",
+        "AWS",
+        "Java"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-binance-5002609101",
+      "company": "Binance",
+      "position": "Pioneer Talent Program - Applied AI Agent/AI Productivity Engineer (Fully Remote) ",
+      "location": "Australia · Hong Kong · Malaysia · New Zealand · Singapore · Taiwan",
+      "locations": [
+        "Australia",
+        "Hong Kong",
+        "Malaysia",
+        "New Zealand",
+        "Singapore",
+        "Taiwan"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5002609101",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5002609101",
+      "postedAt": "2026-11-16T02:10:44-05:00",
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Java",
+        "MCP"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-binance-5002565101",
+      "company": "Binance",
+      "position": "Pioneer Talent Program - Research Data Scientist (APAC Remote)",
+      "location": "Hong Kong · Singapore · Taiwan",
+      "locations": [
+        "Hong Kong",
+        "Singapore",
+        "Taiwan"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5002565101",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5002565101",
+      "postedAt": "2026-11-16T02:10:44-05:00",
+      "tags": [
+        "Claude Code",
+        "Python",
+        "Cursor",
+        "Copilot"
+      ],
+      "companyIcon": ""
+    },
     {
       "id": "anth-5469291008",
       "company": "Anthropic",
@@ -193,19 +520,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-fivetran-7859203003",
+      "id": "gr-fivetran-7865037003",
       "company": "Fivetran",
       "position": "Engineering Manager, Metadata",
-      "location": "Oakland, California, United States",
+      "location": "Toronto, Ontario, Canada",
       "locations": [
-        "Oakland, California, United States"
+        "Toronto, Ontario, Canada"
       ],
       "remote": false,
       "salary": "",
       "description": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more...",
-      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7859203003",
+      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7865037003",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7859203003",
+      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7865037003",
       "postedAt": "2026-11-13T15:30:56-05:00",
       "tags": [
         "Claude Code",
@@ -213,28 +540,6 @@
         "GraphQL"
       ],
       "companyIcon": "https://fivetran.com/favicon.ico"
-    },
-    {
-      "id": "anth-5428790008",
-      "company": "Anthropic",
-      "position": "Sales Enablement Trainer, Claude Products",
-      "location": "San Francisco, CA · New York City, NY",
-      "locations": [
-        "San Francisco, CA",
-        "New York City, NY"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "As a Sales Enablement Trainer, Claude Products, you'll teach Anthropic's global sales team how to use our products, both to do their own work better and to position Claude credibly with customers. Anthropic ships quickly, and the surface area of what we build is growing faster than any individual...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5428790008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5428790008",
-      "postedAt": "2026-11-13T14:22:16-05:00",
-      "tags": [
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "le-provectus-643bfee8-9c9d-4281-b017-61c8a4e41957",
@@ -720,222 +1025,6 @@
         "Azure",
         "Docker",
         "Kubernetes"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-binance-5028202101",
-      "company": "Binance",
-      "position": "Fullstack Engineer - Square (APAC Remote)",
-      "location": "Hong Kong · Singapore · Taiwan",
-      "locations": [
-        "Hong Kong",
-        "Singapore",
-        "Taiwan"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5028202101",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5028202101",
-      "postedAt": "2026-11-13T05:13:04-05:00",
-      "tags": [
-        "Claude Code",
-        "React",
-        "Go",
-        "Cursor",
-        "Copilot",
-        "Java",
-        "Vue.js",
-        "Redis",
-        "MySQL"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-binance-5025783101",
-      "company": "Binance",
-      "position": "Full Stack Engineer - Recommendation Engine (APAC Remote)",
-      "location": "Hong Kong · Japan · Singapore · Taiwan",
-      "locations": [
-        "Hong Kong",
-        "Japan",
-        "Singapore",
-        "Taiwan"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5025783101",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5025783101",
-      "postedAt": "2026-11-13T05:13:03-05:00",
-      "tags": [
-        "Claude Code",
-        "React",
-        "Go",
-        "Cursor",
-        "Copilot",
-        "Java"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-binance-5005781101",
-      "company": "Binance",
-      "position": "Fullstack Engineer",
-      "location": "Hong Kong",
-      "locations": [
-        "Hong Kong"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5005781101",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5005781101",
-      "postedAt": "2026-11-13T05:13:00-05:00",
-      "tags": [
-        "Claude Code",
-        "React",
-        "Go",
-        "Node.js",
-        "Cursor",
-        "Copilot",
-        "Java"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-binance-5007086101",
-      "company": "Binance",
-      "position": "Full Stack Engineer (Web,Frontend Oriented) — AI Facial Recognition, Identity & Security",
-      "location": "Australia · Hong Kong · New Zealand · Singapore · Taiwan · United Arab Emirates",
-      "locations": [
-        "Australia",
-        "Hong Kong",
-        "New Zealand",
-        "Singapore",
-        "Taiwan",
-        "United Arab Emirates"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5007086101",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5007086101",
-      "postedAt": "2026-11-13T05:13:00-05:00",
-      "tags": [
-        "Claude Code",
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "Cursor",
-        "Copilot"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-binance-5004445101",
-      "company": "Binance",
-      "position": "Data Analyst (12 months contract)",
-      "location": "Hong Kong · Malaysia · Singapore",
-      "locations": [
-        "Hong Kong",
-        "Malaysia",
-        "Singapore"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5004445101",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5004445101",
-      "postedAt": "2026-11-13T05:12:59-05:00",
-      "tags": [
-        "Claude Code",
-        "Python"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-binance-5002673101",
-      "company": "Binance",
-      "position": "Java Backend Engineer, Global Travel Rule (GTR)",
-      "location": "Hong Kong · Singapore",
-      "locations": [
-        "Hong Kong",
-        "Singapore"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5002673101",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5002673101",
-      "postedAt": "2026-11-13T05:12:58-05:00",
-      "tags": [
-        "Claude Code",
-        "AWS",
-        "Java"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-binance-5002609101",
-      "company": "Binance",
-      "position": "Pioneer Talent Program - Applied AI Agent/AI Productivity Engineer (Fully Remote) ",
-      "location": "Australia · Hong Kong · Malaysia · New Zealand · Singapore · Taiwan",
-      "locations": [
-        "Australia",
-        "Hong Kong",
-        "Malaysia",
-        "New Zealand",
-        "Singapore",
-        "Taiwan"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5002609101",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5002609101",
-      "postedAt": "2026-11-13T05:12:57-05:00",
-      "tags": [
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
-        "Java",
-        "MCP"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-binance-5002565101",
-      "company": "Binance",
-      "position": "Pioneer Talent Program - Research Data Scientist (APAC Remote)",
-      "location": "Hong Kong · Singapore · Taiwan",
-      "locations": [
-        "Hong Kong",
-        "Singapore",
-        "Taiwan"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5002565101",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5002565101",
-      "postedAt": "2026-11-13T05:12:56-05:00",
-      "tags": [
-        "Claude Code",
-        "Python",
-        "Cursor",
-        "Copilot"
       ],
       "companyIcon": ""
     },
@@ -1673,19 +1762,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-fivetran-7865559003",
+      "id": "gr-fivetran-7865591003",
       "company": "Fivetran",
       "position": "Senior Software Engineer, Metadata",
-      "location": "Denver, Colorado, United States, AMER",
+      "location": "Oakland, California, United States",
       "locations": [
-        "Denver, Colorado, United States, AMER"
+        "Oakland, California, United States"
       ],
       "remote": false,
       "salary": "",
       "description": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more...",
-      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7865559003",
+      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7865591003",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7865559003",
+      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7865591003",
       "postedAt": "2026-11-11T10:33:43-05:00",
       "tags": [
         "Claude Code",
@@ -2521,19 +2610,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-samsara-8281479",
+      "id": "gr-samsara-8281482",
       "company": "Samsara",
       "position": "Senior AI Data & Analytics Engineer II",
-      "location": "Remote - NYC",
+      "location": "Remote - Dallas",
       "locations": [
-        "Remote - NYC"
+        "Remote - Dallas"
       ],
       "remote": true,
       "salary": "",
       "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping...",
-      "applyUrl": "https://www.samsara.com/company/careers/roles/8281479?gh_jid=8281479",
+      "applyUrl": "https://www.samsara.com/company/careers/roles/8281482?gh_jid=8281482",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.samsara.com/company/careers/roles/8281479?gh_jid=8281479",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/8281482?gh_jid=8281482",
       "postedAt": "2026-11-10T11:47:15-05:00",
       "tags": [
         "Claude Code",
@@ -3160,32 +3249,6 @@
         "Cursor"
       ],
       "companyIcon": "https://pinterest.com/favicon.ico"
-    },
-    {
-      "id": "gr-gusto-8348189",
-      "company": "Gusto",
-      "position": "Security Operations Analyst",
-      "location": "Denver, CO - Hybrid · New York, NY - Hybrid · San Francisco, CA - Hybrid",
-      "locations": [
-        "Denver, CO - Hybrid",
-        "New York, NY - Hybrid",
-        "San Francisco, CA - Hybrid"
-      ],
-      "remote": false,
-      "salary": "$147,000-164,000",
-      "description": "About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small...",
-      "applyUrl": "https://job-boards.greenhouse.io/gusto/jobs/8348189",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/8348189",
-      "postedAt": "2026-11-06T16:12:18-05:00",
-      "tags": [
-        "Claude Code",
-        "Python",
-        "AWS",
-        "GCP",
-        "MCP"
-      ],
-      "companyIcon": "https://gusto.com/favicon.ico"
     },
     {
       "id": "gr-gitlab-8922013002",
@@ -4471,114 +4534,6 @@
         "AWS",
         "Kubernetes",
         "Copilot"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-rubrik-8232109",
-      "company": "Rubrik Job Board",
-      "position": "Director, Corporate IT — Employee Experience & AI",
-      "location": "Bangalore",
-      "locations": [
-        "Bangalore"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "About Rubrik Rubrik is one of the fastest-growing companies in Silicon Valley, revolutionizing data protection, and management in the emerging multi-cloud world. We are the leader in cloud data management, delivering a single platform to manage and protect data in the cloud, at the edge, and...",
-      "applyUrl": "https://www.rubrik.com/company/careers/departments/job.8232109?gh_jid=8232109",
-      "source": "Greenhouse",
-      "sourceUrl": "https://www.rubrik.com/company/careers/departments/job.8232109?gh_jid=8232109",
-      "postedAt": "2026-11-03T16:29:48-05:00",
-      "tags": [
-        "Claude Code",
-        "AWS",
-        "GCP",
-        "Azure"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-rubrik-8273808",
-      "company": "Rubrik Job Board",
-      "position": "Senior AI API Platform Engineer",
-      "location": "Bangalore, India",
-      "locations": [
-        "Bangalore, India"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "About the Role The AI API Platform Engineer is a hands-on technical lead who designs and builds the APIs and platform capabilities powering Rubrik's AI-driven products and automation, owning the full API lifecycle across any stack, cloud, or iPaaS. This role delivers secure, scalable,...",
-      "applyUrl": "https://www.rubrik.com/company/careers/departments/job.8273808?gh_jid=8273808",
-      "source": "Greenhouse",
-      "sourceUrl": "https://www.rubrik.com/company/careers/departments/job.8273808?gh_jid=8273808",
-      "postedAt": "2026-11-03T16:29:48-05:00",
-      "tags": [
-        "Claude Code",
-        "Python",
-        "Go",
-        "Node.js",
-        "AWS",
-        "GCP",
-        "Azure",
-        "Kubernetes",
-        "Cursor",
-        "Copilot"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-rubrik-8273834",
-      "company": "Rubrik Job Board",
-      "position": "Senior AI Evals Engineer",
-      "location": "Bangalore",
-      "locations": [
-        "Bangalore"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "About the Role The Senior AI Evals Test Engineer is a hands-on technical role responsible for defining, developing, and executing robust evaluation frameworks and test strategies for AI agents built using the Google Agent Development Kit (ADK) or similar sort of agentic frameworks . This role...",
-      "applyUrl": "https://www.rubrik.com/company/careers/departments/job.8273834?gh_jid=8273834",
-      "source": "Greenhouse",
-      "sourceUrl": "https://www.rubrik.com/company/careers/departments/job.8273834?gh_jid=8273834",
-      "postedAt": "2026-11-03T16:29:48-05:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "Python",
-        "AWS",
-        "GCP",
-        "Azure",
-        "Kubernetes",
-        "Java"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-rubrik-8273717",
-      "company": "Rubrik Job Board",
-      "position": "Senior Applied AI Engineer",
-      "location": "Bangalore",
-      "locations": [
-        "Bangalore"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "About the Role We are looking for a Senior Applied AI Engineer to join Rubrik's Applied AI team, building production-grade, full-stack applications and APIs for our internal Business teams while embedding AI-agentified capabilities into these internal platforms. This is a hands-on build role: you...",
-      "applyUrl": "https://www.rubrik.com/company/careers/departments/job.8273717?gh_jid=8273717",
-      "source": "Greenhouse",
-      "sourceUrl": "https://www.rubrik.com/company/careers/departments/job.8273717?gh_jid=8273717",
-      "postedAt": "2026-11-03T16:29:48-05:00",
-      "tags": [
-        "Claude Code",
-        "React",
-        "Next.js",
-        "JavaScript",
-        "Python",
-        "PostgreSQL",
-        "AWS",
-        "GCP",
-        "Azure",
-        "Docker"
       ],
       "companyIcon": ""
     },
@@ -6276,19 +6231,19 @@
       "companyIcon": "https://wealthsimple.com/favicon.ico"
     },
     {
-      "id": "gr-affirm-8036613003",
+      "id": "gr-affirm-7718808003",
       "company": "Affirm",
       "position": "Security Risk Management Lead",
-      "location": "Remote Canada",
+      "location": "Remote US",
       "locations": [
-        "Remote Canada"
+        "Remote US"
       ],
       "remote": true,
-      "salary": "$128,000 - $188,000",
-      "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden...",
-      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/8036613003",
+      "salary": "$165,000 - $225,000",
+      "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Affirm values security as being critical to the company’s continued success. Our mission is to cultivate a culture of...",
+      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/7718808003",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8036613003",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7718808003",
       "postedAt": "2026-10-30T17:15:12-04:00",
       "tags": [
         "Claude Code",
@@ -6539,19 +6494,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-samsara-7752678",
+      "id": "gr-samsara-8109358",
       "company": "Samsara",
       "position": "Staff Software Engineer, DevEx",
-      "location": "Remote - US",
+      "location": "Remote - Canada",
       "locations": [
-        "Remote - US"
+        "Remote - Canada"
       ],
       "remote": true,
       "salary": "",
       "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping...",
-      "applyUrl": "https://www.samsara.com/company/careers/roles/7752678?gh_jid=7752678",
+      "applyUrl": "https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.samsara.com/company/careers/roles/7752678?gh_jid=7752678",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358",
       "postedAt": "2026-10-30T11:15:54-04:00",
       "tags": [
         "Claude Code",
@@ -6609,19 +6564,19 @@
       "companyIcon": "https://gusto.com/favicon.ico"
     },
     {
-      "id": "gr-alphasense-8887127002",
+      "id": "gr-alphasense-8860806002",
       "company": "AlphaSense",
       "position": "Product Manager, New Content Initiatives and Analysis",
-      "location": "Remote - United Kingdom",
+      "location": "Remote - United States",
       "locations": [
-        "Remote - United Kingdom"
+        "Remote - United States"
       ],
       "remote": true,
       "salary": "",
       "description": "About AlphaSense: AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content universe of over...",
-      "applyUrl": "https://job-boards.greenhouse.io/alphasense/jobs/8887127002",
+      "applyUrl": "https://job-boards.greenhouse.io/alphasense/jobs/8860806002",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/alphasense/jobs/8887127002",
+      "sourceUrl": "https://job-boards.greenhouse.io/alphasense/jobs/8860806002",
       "postedAt": "2026-10-30T09:54:20-04:00",
       "tags": [
         "Claude Code"
@@ -6946,29 +6901,6 @@
         "Claude Code",
         "AWS",
         "Cursor"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "le-gohighlevel-51a46259-1107-4bab-883c-6767aad5f405",
-      "company": "Gohighlevel",
-      "position": "Lead Product Designer, Design Systems",
-      "location": "United States",
-      "locations": [
-        "United States"
-      ],
-      "remote": true,
-      "salary": "",
-      "description": "About usHighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale. Today, HighLevel supports SMBs across 150+ countries, fueling community-driven growth rooted in real customer outcomes.\nTo date, businesses...",
-      "applyUrl": "https://jobs.lever.co/gohighlevel/51a46259-1107-4bab-883c-6767aad5f405",
-      "source": "Lever",
-      "sourceUrl": "https://jobs.lever.co/gohighlevel/51a46259-1107-4bab-883c-6767aad5f405",
-      "postedAt": "2026-10-29T17:42:57.677000+00:00",
-      "tags": [
-        "Claude Code",
-        "React",
-        "Cursor",
-        "Vue.js"
       ],
       "companyIcon": ""
     },
@@ -10107,28 +10039,6 @@
       "companyIcon": "https://docker.com/favicon.ico"
     },
     {
-      "id": "le-sonarsource-d2f8a0b1-090e-4792-a6fc-5e5f4a98768f",
-      "company": "Sonarsource",
-      "position": "Senior Tech Recruiter",
-      "location": "Austin, Texas",
-      "locations": [
-        "Austin, Texas"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Who is Sonar?\nSonar is driving the future of agent-centric software development. As the leader in AI code verification and governance, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, secure, and maintainable.\nIntegrating...",
-      "applyUrl": "https://jobs.lever.co/sonarsource/d2f8a0b1-090e-4792-a6fc-5e5f4a98768f",
-      "source": "Lever",
-      "sourceUrl": "https://jobs.lever.co/sonarsource/d2f8a0b1-090e-4792-a6fc-5e5f4a98768f",
-      "postedAt": "2026-10-14T12:42:14.024000+00:00",
-      "tags": [
-        "Claude Code",
-        "Cursor",
-        "Copilot"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "gr-codeandtheory-8815828002",
       "company": "Code and Theory",
       "position": "Lead Engineer, Full Stack (US)",
@@ -11851,19 +11761,19 @@
       "companyIcon": "https://intercom.com/favicon.ico"
     },
     {
-      "id": "gr-tailscale-4721714005",
+      "id": "gr-tailscale-4721713005",
       "company": "Tailscale",
       "position": "Software Engineer, Strategic Projects",
-      "location": "Remote (United States)",
+      "location": "Remote (Canada)",
       "locations": [
-        "Remote (United States)"
+        "Remote (Canada)"
       ],
       "remote": true,
       "salary": "",
       "description": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break...",
-      "applyUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4721714005",
+      "applyUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4721713005",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4721714005",
+      "sourceUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4721713005",
       "postedAt": "2026-09-29T20:38:27-04:00",
       "tags": [
         "Claude Code",
@@ -14195,6 +14105,28 @@
         "Cursor"
       ],
       "companyIcon": "https://sierra.ai/favicon.ico"
+    },
+    {
+      "id": "le-sonarsource-ce922dda-2638-47f8-878a-c14673c03f63",
+      "company": "Sonarsource",
+      "position": "Sr. Information Security Governance Manager",
+      "location": "Austin, Texas",
+      "locations": [
+        "Austin, Texas"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Who is Sonar?\nSonar is driving the future of agent-centric software development. As the leader in AI code review and verification, we solve a critical problem: ensuring that software generated by AI-assisted developers or autonomous agents is reliable, secure, and maintainable.\nIntegrating...",
+      "applyUrl": "https://jobs.lever.co/sonarsource/ce922dda-2638-47f8-878a-c14673c03f63",
+      "source": "Lever",
+      "sourceUrl": "https://jobs.lever.co/sonarsource/ce922dda-2638-47f8-878a-c14673c03f63",
+      "postedAt": "2026-06-03T13:16:53.338000+00:00",
+      "tags": [
+        "Claude Code",
+        "Cursor",
+        "Copilot"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "as-clickup-37c53272-fb9e-4a01-8f1a-8395b922f28c",
